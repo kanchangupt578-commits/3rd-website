@@ -1,0 +1,6 @@
+{
+  "name": "SmileCare Dental Clinic",
+  "description": "Premium, mobile-first dental clinic website for Dr. Arjun Mehta specializing in Orthodontics and modern dentistry in New Delhi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["responsive_design", "appointment_booking"]
+}
